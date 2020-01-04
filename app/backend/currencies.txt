@@ -1,0 +1,9 @@
+TRY,Turkish Lira
+USD,United States Dollar
+EUR,Euro
+AUD,Australian Dollar
+CNY,Chinese Yuan
+HKD,Hong Kong Dollar
+INR,Indian Rupee
+JPY,Japanese Yen
+AED,United Arab Emirates Dirham
